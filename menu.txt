@@ -1,0 +1,15 @@
+#Kedai Nyonya Mariposa
+_FOOD
+F01;Pizza;80000
+F02;Burger;30000
+F03;Tuna Salad;25000
+F04;Beef Steak;40000
+F05;Briyani;100000
+_BEVERAGE
+B01;Barley Tea;15000
+B02;Americano;15000
+B03;Matcha;25000
+_SNACK
+S01;French Fries;20000
+S02;Potato Wedges;15000
+S03;Macaron;40000
